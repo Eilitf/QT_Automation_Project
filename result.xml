@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="2" time="2.245" timestamp="2022-03-08T10:08:10.202383" hostname="EDR-L-ELIRAN_KOTEV"><testcase classname="Test_API" name="test_get_pet_by_id" time="0.984" /><testcase classname="Test_API" name="test_get_user_by_user_name" time="0.952" /></testsuite></testsuites>
